@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://juicy-point-b0c.notion.site/Kim-Seryung-Developer-f96363b498e64961897536c55963b485?pvs=4](https://juicy-point-b0c.notion.site/Kim-Seryung-Developer-f96363b498e64961897536c55963b485?pvs=4)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
