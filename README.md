@@ -2,7 +2,8 @@
 <h3 align="center">A passionate back-end developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshika90&label=Profile%20views&color=0e75b6&style=flat" alt="eshika90" /> </p>
-- 📝 I regularly write articles on [https://velog.io/@eshika](https://velog.io/@eshika)
+
+- 📝 I regularly write articles on [https://velog.io/@eshika]
 
 - 📫 How to reach me **eshika@naver.com**
 
