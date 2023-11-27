@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eshika@naver.com**
 
-- 📄 Know about my experiences [https://juicy-point-b0c.notion.site/Kim-Seryung-Developer-f96363b498e64961897536c55963b485?pvs=4](https://juicy-point-b0c.notion.site/Kim-Seryung-Developer-f96363b498e64961897536c55963b485?pvs=4)
+- 📄 Know about my experiences
 
 <p align="left">
 </p>
