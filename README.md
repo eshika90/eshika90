@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋, I'm Seryung!</h1>
-<h3 align="center">A passionate developer from South Korea</h3>
+<div align = center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshika90&label=Profile%20views&color=0e75b6&style=flat" alt="eshika90" /> </p>
+## Back-end Developer
 
-- 📝 I regularly write articles on [https://velog.io/@eshika]
+- 📝 Web Back-end Developer
 
 - 📫 How to reach me **eshika@naver.com**
 
-- 📄 Know about my experiences
+## Teck Stack
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshika90&show_icons=true&locale=en&layout=compact" alt="eshika90" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshika90&show_icons=true&locale=en" alt="eshika90" /></p>
+<div align = center>
+<img src="http://img.shields.io/badge/-TypeScript-3073BF?style=for-the-badge&logo=TypeScript&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+<img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/> 
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+<img src="http://img.shields.io/badge/-NestJS-DA224B?style=for-the-badge&logo=NestJS&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+</div>
+<div align = center>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  <img src="http://img.shields.io/badge/-TypeORM-262627?style=for-the-badge&logo=Exercism&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  <img src="http://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  <img src="http://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+</div>
